@@ -1,7 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Live Demo: https://svg-path-on-scroll.vercel.app/
-[svg-path-scroll.pptx](https://github.com/user-attachments/files/16070808/svg-path-scroll.pptx)
+
+
+https://github.com/hadeebataj/svg-path-on-scroll/assets/61531844/8e0f23a8-6a40-412a-9e2b-88f97fa99a35
+
 
 
 ## Getting Started
