@@ -36,7 +36,7 @@ const ScrollSVG = () => {
           maxHeight: '100%',
           position: 'fixed',
           top: 0,
-          left: 250,
+          left: 100,
         }}
       >
         <defs>
