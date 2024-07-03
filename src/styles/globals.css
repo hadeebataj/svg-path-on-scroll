@@ -20,3 +20,17 @@ a {
   color: inherit;
   text-decoration: none;
 }
+
+@media (max-width: 768px) {
+  html,
+  body {
+    min-height: 100vh; 
+  }
+
+  body {
+    padding: 10px; 
+  }
+
+  a {
+    font-size: 1.2em; 
+}
