@@ -5,8 +5,6 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 https://github.com/hadeebataj/svg-path-on-scroll/assets/61531844/8e0f23a8-6a40-412a-9e2b-88f97fa99a35
 
-
-
 ## Getting Started
 
 First, run the development server:
